@@ -8,7 +8,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 3,
             "conferenceSequence": 1,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "P",
             "divisionHomeSequence": 2,
             "divisionL10Sequence": 4,
@@ -117,7 +117,8 @@
                 "wins": 15,
                 "winsInRegulation": 11,
                 "winsInShootout": 3
-            }
+            },
+            "pointPctRank": 4
         },
         {
             "conferenceAbbrev": "E",
@@ -126,7 +127,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 1,
             "conferenceSequence": 1,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "M",
             "divisionHomeSequence": 3,
             "divisionL10Sequence": 1,
@@ -235,7 +236,8 @@
                 "wins": 16,
                 "winsInRegulation": 13,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 1
         },
         {
             "conferenceAbbrev": "E",
@@ -244,7 +246,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 2,
             "conferenceSequence": 2,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "A",
             "divisionHomeSequence": 2,
             "divisionL10Sequence": 4,
@@ -353,7 +355,8 @@
                 "wins": 15,
                 "winsInRegulation": 13,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 2
         },
         {
             "conferenceAbbrev": "W",
@@ -362,7 +365,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 4,
             "conferenceSequence": 2,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "C",
             "divisionHomeSequence": 1,
             "divisionL10Sequence": 1,
@@ -471,7 +474,8 @@
                 "wins": 15,
                 "winsInRegulation": 14,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 5
         },
         {
             "conferenceAbbrev": "W",
@@ -480,7 +484,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 5,
             "conferenceSequence": 3,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "P",
             "divisionHomeSequence": 1,
             "divisionL10Sequence": 5,
@@ -589,7 +593,8 @@
                 "wins": 15,
                 "winsInRegulation": 14,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 9
         },
         {
             "conferenceAbbrev": "E",
@@ -598,7 +603,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 3,
             "conferenceSequence": 3,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "A",
             "divisionHomeSequence": 4,
             "divisionL10Sequence": 2,
@@ -708,7 +713,8 @@
                 "wins": 14,
                 "winsInRegulation": 12,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 7
         },
         {
             "conferenceAbbrev": "W",
@@ -717,7 +723,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 1,
             "conferenceSequence": 4,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "P",
             "divisionHomeSequence": 6,
             "divisionL10Sequence": 1,
@@ -826,7 +832,8 @@
                 "wins": 13,
                 "winsInRegulation": 13,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 3
         },
         {
             "conferenceAbbrev": "W",
@@ -835,7 +842,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 2,
             "conferenceSequence": 5,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "C",
             "divisionHomeSequence": 6,
             "divisionL10Sequence": 2,
@@ -944,7 +951,8 @@
                 "wins": 13,
                 "winsInRegulation": 10,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 6
         },
         {
             "conferenceAbbrev": "E",
@@ -953,7 +961,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 4,
             "conferenceSequence": 4,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "A",
             "divisionHomeSequence": 5,
             "divisionL10Sequence": 1,
@@ -1062,7 +1070,8 @@
                 "wins": 12,
                 "winsInRegulation": 5,
                 "winsInShootout": 4
-            }
+            },
+            "pointPctRank": 10
         },
         {
             "conferenceAbbrev": "E",
@@ -1071,7 +1080,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 14,
             "conferenceSequence": 5,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "A",
             "divisionHomeSequence": 1,
             "divisionL10Sequence": 3,
@@ -1180,7 +1189,8 @@
                 "wins": 12,
                 "winsInRegulation": 11,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 11
         },
         {
             "conferenceAbbrev": "E",
@@ -1189,7 +1199,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 10,
             "conferenceSequence": 6,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "M",
             "divisionHomeSequence": 1,
             "divisionL10Sequence": 3,
@@ -1300,7 +1310,8 @@
                 "wins": 13,
                 "winsInRegulation": 9,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 11
         },
         {
             "conferenceAbbrev": "E",
@@ -1309,7 +1320,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 12,
             "conferenceSequence": 7,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "M",
             "divisionHomeSequence": 2,
             "divisionL10Sequence": 2,
@@ -1418,7 +1429,8 @@
                 "wins": 12,
                 "winsInRegulation": 9,
                 "winsInShootout": 2
-            }
+            },
+            "pointPctRank": 8
         },
         {
             "conferenceAbbrev": "W",
@@ -1427,7 +1439,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 6,
             "conferenceSequence": 6,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "C",
             "divisionHomeSequence": 4,
             "divisionL10Sequence": 4,
@@ -1536,7 +1548,8 @@
                 "wins": 12,
                 "winsInRegulation": 10,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 13
         },
         {
             "conferenceAbbrev": "W",
@@ -1545,7 +1558,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 10,
             "conferenceSequence": 7,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "C",
             "divisionHomeSequence": 3,
             "divisionL10Sequence": 3,
@@ -1654,7 +1667,8 @@
                 "wins": 12,
                 "winsInRegulation": 11,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 14
         },
         {
             "conferenceAbbrev": "E",
@@ -1663,7 +1677,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 13,
             "conferenceSequence": 8,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "A",
             "divisionHomeSequence": 3,
             "divisionL10Sequence": 7,
@@ -1772,7 +1786,8 @@
                 "wins": 10,
                 "winsInRegulation": 9,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 20
         },
         {
             "conferenceAbbrev": "W",
@@ -1781,7 +1796,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 8,
             "conferenceSequence": 8,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "C",
             "divisionHomeSequence": 5,
             "divisionL10Sequence": 6,
@@ -1890,7 +1905,8 @@
                 "wins": 11,
                 "winsInRegulation": 8,
                 "winsInShootout": 2
-            }
+            },
+            "pointPctRank": 16
         },
         {
             "conferenceAbbrev": "E",
@@ -1899,7 +1915,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 8,
             "conferenceSequence": 9,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "M",
             "divisionHomeSequence": 4,
             "divisionL10Sequence": 6,
@@ -2008,7 +2024,8 @@
                 "wins": 9,
                 "winsInRegulation": 7,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 16
         },
         {
             "conferenceAbbrev": "E",
@@ -2017,7 +2034,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 6,
             "conferenceSequence": 10,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "M",
             "divisionHomeSequence": 6,
             "divisionL10Sequence": 4,
@@ -2127,7 +2144,8 @@
                 "wins": 11,
                 "winsInRegulation": 9,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 19
         },
         {
             "conferenceAbbrev": "E",
@@ -2136,7 +2154,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 7,
             "conferenceSequence": 11,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "M",
             "divisionHomeSequence": 5,
             "divisionL10Sequence": 7,
@@ -2245,7 +2263,8 @@
                 "wins": 11,
                 "winsInRegulation": 9,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 15
         },
         {
             "conferenceAbbrev": "E",
@@ -2254,7 +2273,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 5,
             "conferenceSequence": 12,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "M",
             "divisionHomeSequence": 8,
             "divisionL10Sequence": 5,
@@ -2363,7 +2382,8 @@
                 "wins": 11,
                 "winsInRegulation": 10,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 18
         },
         {
             "conferenceAbbrev": "W",
@@ -2372,7 +2392,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 9,
             "conferenceSequence": 9,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "P",
             "divisionHomeSequence": 4,
             "divisionL10Sequence": 3,
@@ -2481,7 +2501,8 @@
                 "wins": 10,
                 "winsInRegulation": 7,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 21
         },
         {
             "conferenceAbbrev": "W",
@@ -2490,7 +2511,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 15,
             "conferenceSequence": 10,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "C",
             "divisionHomeSequence": 2,
             "divisionL10Sequence": 5,
@@ -2599,7 +2620,8 @@
                 "wins": 11,
                 "winsInRegulation": 9,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 21
         },
         {
             "conferenceAbbrev": "E",
@@ -2608,7 +2630,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 11,
             "conferenceSequence": 13,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "A",
             "divisionHomeSequence": 7,
             "divisionL10Sequence": 6,
@@ -2717,7 +2739,8 @@
                 "wins": 10,
                 "winsInRegulation": 9,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 23
         },
         {
             "conferenceAbbrev": "E",
@@ -2726,7 +2749,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 9,
             "conferenceSequence": 14,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "A",
             "divisionHomeSequence": 8,
             "divisionL10Sequence": 8,
@@ -2835,7 +2858,8 @@
                 "wins": 10,
                 "winsInRegulation": 4,
                 "winsInShootout": 2
-            }
+            },
+            "pointPctRank": 23
         },
         {
             "conferenceAbbrev": "W",
@@ -2844,7 +2868,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 7,
             "conferenceSequence": 11,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "P",
             "divisionHomeSequence": 7,
             "divisionL10Sequence": 6,
@@ -2953,7 +2977,8 @@
                 "wins": 8,
                 "winsInRegulation": 5,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 26
         },
         {
             "conferenceAbbrev": "W",
@@ -2962,7 +2987,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 13,
             "conferenceSequence": 12,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "P",
             "divisionHomeSequence": 5,
             "divisionL10Sequence": 2,
@@ -3071,7 +3096,8 @@
                 "wins": 9,
                 "winsInRegulation": 7,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 27
         },
         {
             "conferenceAbbrev": "W",
@@ -3080,7 +3106,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 12,
             "conferenceSequence": 13,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "C",
             "divisionHomeSequence": 7,
             "divisionL10Sequence": 7,
@@ -3189,7 +3215,8 @@
                 "wins": 7,
                 "winsInRegulation": 6,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 28
         },
         {
             "conferenceAbbrev": "W",
@@ -3198,7 +3225,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 11,
             "conferenceSequence": 14,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "P",
             "divisionHomeSequence": 8,
             "divisionL10Sequence": 8,
@@ -3307,7 +3334,8 @@
                 "wins": 9,
                 "winsInRegulation": 6,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 29
         },
         {
             "conferenceAbbrev": "E",
@@ -3316,7 +3344,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 15,
             "conferenceSequence": 15,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "M",
             "divisionHomeSequence": 7,
             "divisionL10Sequence": 8,
@@ -3425,7 +3453,8 @@
                 "wins": 7,
                 "winsInRegulation": 6,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 30
         },
         {
             "conferenceAbbrev": "E",
@@ -3434,7 +3463,7 @@
             "conferenceName": "Eastern",
             "conferenceRoadSequence": 16,
             "conferenceSequence": 16,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "A",
             "divisionHomeSequence": 6,
             "divisionL10Sequence": 5,
@@ -3544,7 +3573,8 @@
                 "wins": 8,
                 "winsInRegulation": 6,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 25
         },
         {
             "conferenceAbbrev": "W",
@@ -3553,7 +3583,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 14,
             "conferenceSequence": 15,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "C",
             "divisionHomeSequence": 8,
             "divisionL10Sequence": 8,
@@ -3663,7 +3693,8 @@
                 "wins": 7,
                 "winsInRegulation": 5,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 31
         },
         {
             "conferenceAbbrev": "W",
@@ -3672,7 +3703,7 @@
             "conferenceName": "Western",
             "conferenceRoadSequence": 16,
             "conferenceSequence": 16,
-            "date": "2023-11-30",
+            "date": "2023-12-01",
             "divisionAbbrev": "P",
             "divisionHomeSequence": 3,
             "divisionL10Sequence": 7,
@@ -3781,7 +3812,8 @@
                 "wins": 5,
                 "winsInRegulation": 5,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 32
         }
     ]
 }
