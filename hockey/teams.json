@@ -117,7 +117,8 @@
                 "wins": 15,
                 "winsInRegulation": 11,
                 "winsInShootout": 3
-            }
+            },
+            "pointPctRank": 4
         },
         {
             "conferenceAbbrev": "E",
@@ -235,7 +236,8 @@
                 "wins": 16,
                 "winsInRegulation": 13,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 1
         },
         {
             "conferenceAbbrev": "E",
@@ -353,7 +355,8 @@
                 "wins": 15,
                 "winsInRegulation": 13,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 2
         },
         {
             "conferenceAbbrev": "W",
@@ -471,7 +474,8 @@
                 "wins": 15,
                 "winsInRegulation": 14,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 5
         },
         {
             "conferenceAbbrev": "W",
@@ -589,7 +593,8 @@
                 "wins": 15,
                 "winsInRegulation": 14,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 9
         },
         {
             "conferenceAbbrev": "E",
@@ -708,7 +713,8 @@
                 "wins": 14,
                 "winsInRegulation": 12,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 7
         },
         {
             "conferenceAbbrev": "W",
@@ -826,7 +832,8 @@
                 "wins": 13,
                 "winsInRegulation": 13,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 3
         },
         {
             "conferenceAbbrev": "W",
@@ -944,7 +951,8 @@
                 "wins": 13,
                 "winsInRegulation": 10,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 6
         },
         {
             "conferenceAbbrev": "E",
@@ -1062,7 +1070,8 @@
                 "wins": 12,
                 "winsInRegulation": 5,
                 "winsInShootout": 4
-            }
+            },
+            "pointPctRank": 10
         },
         {
             "conferenceAbbrev": "E",
@@ -1180,7 +1189,8 @@
                 "wins": 12,
                 "winsInRegulation": 11,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 11
         },
         {
             "conferenceAbbrev": "E",
@@ -1300,7 +1310,8 @@
                 "wins": 13,
                 "winsInRegulation": 9,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 11
         },
         {
             "conferenceAbbrev": "E",
@@ -1418,7 +1429,8 @@
                 "wins": 12,
                 "winsInRegulation": 9,
                 "winsInShootout": 2
-            }
+            },
+            "pointPctRank": 8
         },
         {
             "conferenceAbbrev": "W",
@@ -1536,7 +1548,8 @@
                 "wins": 12,
                 "winsInRegulation": 10,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 13
         },
         {
             "conferenceAbbrev": "W",
@@ -1654,7 +1667,8 @@
                 "wins": 12,
                 "winsInRegulation": 11,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 14
         },
         {
             "conferenceAbbrev": "E",
@@ -1772,7 +1786,8 @@
                 "wins": 10,
                 "winsInRegulation": 9,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 20
         },
         {
             "conferenceAbbrev": "W",
@@ -1890,7 +1905,8 @@
                 "wins": 11,
                 "winsInRegulation": 8,
                 "winsInShootout": 2
-            }
+            },
+            "pointPctRank": 15
         },
         {
             "conferenceAbbrev": "E",
@@ -2008,7 +2024,8 @@
                 "wins": 9,
                 "winsInRegulation": 7,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 15
         },
         {
             "conferenceAbbrev": "E",
@@ -2127,7 +2144,8 @@
                 "wins": 11,
                 "winsInRegulation": 9,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 19
         },
         {
             "conferenceAbbrev": "E",
@@ -2245,7 +2263,8 @@
                 "wins": 11,
                 "winsInRegulation": 10,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 17
         },
         {
             "conferenceAbbrev": "E",
@@ -2363,7 +2382,8 @@
                 "wins": 11,
                 "winsInRegulation": 9,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 17
         },
         {
             "conferenceAbbrev": "W",
@@ -2481,7 +2501,8 @@
                 "wins": 10,
                 "winsInRegulation": 7,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 21
         },
         {
             "conferenceAbbrev": "W",
@@ -2599,7 +2620,8 @@
                 "wins": 11,
                 "winsInRegulation": 9,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 21
         },
         {
             "conferenceAbbrev": "E",
@@ -2717,7 +2739,8 @@
                 "wins": 10,
                 "winsInRegulation": 9,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 23
         },
         {
             "conferenceAbbrev": "E",
@@ -2835,7 +2858,8 @@
                 "wins": 10,
                 "winsInRegulation": 4,
                 "winsInShootout": 2
-            }
+            },
+            "pointPctRank": 23
         },
         {
             "conferenceAbbrev": "W",
@@ -2953,7 +2977,8 @@
                 "wins": 8,
                 "winsInRegulation": 5,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 25
         },
         {
             "conferenceAbbrev": "E",
@@ -3071,7 +3096,8 @@
                 "wins": 8,
                 "winsInRegulation": 7,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 29
         },
         {
             "conferenceAbbrev": "W",
@@ -3189,7 +3215,8 @@
                 "wins": 9,
                 "winsInRegulation": 7,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 27
         },
         {
             "conferenceAbbrev": "W",
@@ -3307,7 +3334,8 @@
                 "wins": 7,
                 "winsInRegulation": 6,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 28
         },
         {
             "conferenceAbbrev": "W",
@@ -3425,7 +3453,8 @@
                 "wins": 9,
                 "winsInRegulation": 6,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 30
         },
         {
             "conferenceAbbrev": "E",
@@ -3544,7 +3573,8 @@
                 "wins": 8,
                 "winsInRegulation": 6,
                 "winsInShootout": 1
-            }
+            },
+            "pointPctRank": 26
         },
         {
             "conferenceAbbrev": "W",
@@ -3663,7 +3693,8 @@
                 "wins": 7,
                 "winsInRegulation": 5,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 31
         },
         {
             "conferenceAbbrev": "W",
@@ -3781,7 +3812,8 @@
                 "wins": 6,
                 "winsInRegulation": 6,
                 "winsInShootout": 0
-            }
+            },
+            "pointPctRank": 32
         }
     ]
 }
