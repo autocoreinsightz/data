@@ -1257,7 +1257,7 @@
             "wins": 46,
             "teamid": 10,
             "stats": {
-                "faceoffWinPct": 0.534397,
+                "faceoffWinPct": 0.534512,
                 "gamesPlayed": 82,
                 "goalsAgainst": 261,
                 "goalsAgainstPerGame": 3.18292,
@@ -4081,7 +4081,7 @@
             "wins": 19,
             "teamid": 28,
             "stats": {
-                "faceoffWinPct": 0.490513,
+                "faceoffWinPct": 0.490405,
                 "gamesPlayed": 82,
                 "goalsAgainst": 326,
                 "goalsAgainstPerGame": 3.9756,
