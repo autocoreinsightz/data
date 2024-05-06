@@ -1,8 +1,8 @@
 {
     "date": [
+        "2024-05-04",
         "2024-05-02",
         "2024-05-02",
-        "2024-04-29",
         "2024-04-29",
         "2024-04-29",
         "2024-04-27",
@@ -77,10 +77,10 @@
         "2022-09-22"
     ],
     "player": [
+        "Joseph Woll",
         "Danton Heinen",
         "Andrew Peeke",
         "Nicolas Hague",
-        "Auston Matthews",
         "Joel Kiviranta",
         "Mason Marchment",
         "Brett Pesce",
@@ -154,10 +154,10 @@
         "Gabriel Landeskog"
     ],
     "team": [
+        "Toronto Maple Leafs",
         "Boston Bruins",
         "Boston Bruins",
         "Vegas Golden Knights",
-        "Toronto Maple Leafs",
         "Colorado Avalanche",
         "Dallas Stars",
         "Carolina Hurricanes",
@@ -231,10 +231,10 @@
         "Colorado Avalanche"
     ],
     "teamid": [
+        10,
         6,
         6,
         54,
-        10,
         21,
         25,
         12,
@@ -309,9 +309,9 @@
     ],
     "type": [
         "Undisclosed",
+        "Undisclosed",
         "Finger",
         "Lower body",
-        "Illness",
         "Lower body",
         "Undisclosed",
         "Lower body",
@@ -385,10 +385,10 @@
         "Knee"
     ],
     "notes": [
-        "Heinen did not play in Thursday's (May 2) game versus Toronto.",
+        "Woll is OUT for Saturday's (May 4) game against Boston.",
+        "Heinen is a game-time decision for Saturday's (May 4) game versus Toronto.",
         "Peeke is a couple weeks away from returning, coach Jim Montgomery told Conor Ryan of The Boston Globe.",
         "Hague is out for Friday's (May 3) game against Dallas.",
-        "Matthews did not play in Thursday's (May 2) game against Boston.",
         "Kiviranta did not play in Tuesday's (Apr. 30) game versus Winnipeg.",
         "Marchment will not be in the lineup for Game 6 in Vegas on Friday (May 3), according to Lia Assimakopoulos of The Dallas Morning News.",
         "Pesce is OUT for the remainder of the first-round series against New York.",
