@@ -1,5 +1,6 @@
 {
     "date": [
+        "2024-05-28",
         "2024-05-23",
         "2024-05-20",
         "2024-05-13",
@@ -32,7 +33,6 @@
         "2024-02-24",
         "2024-02-22",
         "2024-02-17",
-        "2024-02-15",
         "2024-02-12",
         "2024-02-12",
         "2024-02-11",
@@ -59,6 +59,7 @@
         "2022-09-22"
     ],
     "player": [
+        "Jimmy Vesey",
         "Artturi Lehkonen",
         "Brock Boeser",
         "Valeri Nichushkin",
@@ -72,8 +73,8 @@
         "Justin Faulk",
         "Jake Bean",
         "Jonas Johansson",
-        "Alexander Barabanov",
         "Ryan Graves",
+        "Alexander Barabanov",
         "Marcus Foligno",
         "Max Jones",
         "Ethan Bear",
@@ -91,7 +92,6 @@
         "Scott Mayfield",
         "Nathan Bastian",
         "Brock McGinn",
-        "Blake Wheeler",
         "Logan Couture",
         "Vitek Vanecek",
         "Rasmus Ristolainen",
@@ -118,6 +118,7 @@
         "Gabriel Landeskog"
     ],
     "team": [
+        "New York Rangers",
         "Colorado Avalanche",
         "Vancouver Canucks",
         "Colorado Avalanche",
@@ -131,8 +132,8 @@
         "St. Louis Blues",
         "Columbus Blue Jackets",
         "Tampa Bay Lightning",
-        "San Jose Sharks",
         "Pittsburgh Penguins",
+        "San Jose Sharks",
         "Minnesota Wild",
         "Anaheim Ducks",
         "Washington Capitals",
@@ -150,7 +151,6 @@
         "New York Islanders",
         "New Jersey Devils",
         "Anaheim Ducks",
-        "New York Rangers",
         "San Jose Sharks",
         "San Jose Sharks",
         "Philadelphia Flyers",
@@ -177,6 +177,7 @@
         "Colorado Avalanche"
     ],
     "teamid": [
+        3,
         21,
         23,
         21,
@@ -190,8 +191,8 @@
         19,
         29,
         14,
-        28,
         5,
+        28,
         30,
         24,
         15,
@@ -209,7 +210,6 @@
         2,
         1,
         24,
-        3,
         28,
         28,
         4,
@@ -236,6 +236,7 @@
         21
     ],
     "type": [
+        "Upper body",
         "Shoulder",
         "Blood clotting",
         "NHLPA",
@@ -249,8 +250,8 @@
         "Upper-Body",
         "Hand",
         "Lower body",
-        "Lower body",
         "Concussion",
+        "Lower body",
         "Undisclosed",
         "Upper-Body ",
         "Personal",
@@ -268,7 +269,6 @@
         "Lower-Body",
         "Upper body",
         "Back",
-        "Lower-Body",
         "Groin",
         "Lower Body",
         "Upper Body",
@@ -295,6 +295,7 @@
         "Knee"
     ],
     "notes": [
+        "Vesey is considered week-to-week, per Mollie Walker of the New York Post.",
         "Lehkonen is expected to undergo a shoulder procedure according to general manager Chris MacFarland, Brennan Vogt of The-Rink.com reports.",
         "Boeser is OUT indefinitely and will not play in Monday's (May 20) game versus Edmonton.",
         "Nichushkin was placed in Stage 3 of the NHL/NHLPA player assistance program and suspended for a minimum of six months without pay for violating the terms of Stage 2, the NHL and NHLPA announced.",
@@ -308,8 +309,8 @@
         "Faulk is considered week-to-week and is likely done for the rest of the regular season, per St. Louis Blues site editor/writer Lou Korac.",
         "Bean suffered a broken hand in Thursday's (Apr. 4) game against the Islanders and will miss the rest of the season.",
         "Johansson (lower body) won't return for Sunday's opening game against the Florida Panthers, Chris Krenn of the Tampa Bay Lightning's official site reports.",
-        "Barabanov is week-to-week and didn't travel with the team for Thursday's (Mar. 28) game versus Wild, per San Jose Sharks Beat Reporter Max Miller. ",
         "The Pittsburgh Penguins placed D Ryan Graves on the Injured Reserve.",
+        "Barabanov is week-to-week and didn't travel with the team for Thursday's (Mar. 28) game versus Wild, per San Jose Sharks Beat Reporter Max Miller. ",
         "Foligno will undergo season-ending surgery according to Michael Russo of The Athletic.",
         "Jones is OUT with an upper-body injury, per Ducks.",
         "The NHL and NHLPA announced that Bear will be out indefinitely while receiving care from the Player Assistance Program.",
@@ -327,7 +328,6 @@
         "The New York Islanders announced D Scott Mayfield had successful season-ending surgery. ",
         "The New Jersey Devils placed F Nathan Bastian on Injured Reserve.",
         "The Ducks announced F McGinn underwent successful disc surgery last week and is expected to be out of action for four months.",
-        "Wheeler is practicing with the team and hoping to return at some point in the playoffs according to Daily Faceoff.",
         "Couture said he will not return this season according to Curtis Pashekla of the Bay Area News Group.",
         "Sharks GM Mike Grier said he expects Vanecek to be healthy to start the 2024-2025 season.",
         "Ristolainen underwent surgery on his ruptured triceps tendon. He is expected to be out three months and will make a full recovery.",
