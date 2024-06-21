@@ -1507,7 +1507,7 @@
             "teamAbbrev": {
                 "default": "LAK"
             },
-            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/LAK_20192020-20232024_light.svg",
             "ties": 0,
             "waiversSequence": 21,
             "wildcardSequence": 0,
@@ -3433,7 +3433,7 @@
             "teamAbbrev": {
                 "default": "ARI"
             },
-            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/ARI_20212022-20232024_light.svg",
+            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/ARI_20202021-20232024_light.svg",
             "ties": 0,
             "waiversSequence": 6,
             "wildcardSequence": 7,
