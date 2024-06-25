@@ -1,7 +1,6 @@
 {
     "date": [
         "2024-06-13",
-        "2024-06-12",
         "2024-05-29",
         "2024-05-23",
         "2024-05-20",
@@ -41,7 +40,6 @@
     ],
     "player": [
         "Logan Couture",
-        "Evander Kane",
         "Troy Stecher",
         "Artturi Lehkonen",
         "Brock Boeser",
@@ -82,7 +80,6 @@
     "team": [
         "San Jose Sharks",
         "Edmonton Oilers",
-        "Edmonton Oilers",
         "Colorado Avalanche",
         "Vancouver Canucks",
         "Colorado Avalanche",
@@ -122,7 +119,6 @@
     "teamid": [
         28,
         22,
-        22,
         21,
         23,
         21,
@@ -161,7 +157,6 @@
     ],
     "type": [
         "Groin",
-        "Abdomen",
         "Ankle",
         "Shoulder",
         "Blood clotting",
@@ -201,7 +196,6 @@
     ],
     "notes": [
         "Couture (groin) is feeling better and hopes to resume skating in July, Sheng Peng of San Jose Hockey Now reports.",
-        "Kane is out for Friday's (Jun. 21) game six against Florida.",
         "Stecher is slated to have ankle surgery at some point this summer, per Jason Gregor of Sports 1440 Edmonton.",
         "Lehkonen is expected to undergo a shoulder procedure according to general manager Chris MacFarland, Brennan Vogt of The-Rink.com reports.",
         "Boeser is OUT indefinitely and will not play in Monday's (May 20) game versus Edmonton.",
