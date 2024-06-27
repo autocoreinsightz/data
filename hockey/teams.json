@@ -862,7 +862,7 @@
             "teamAbbrev": {
                 "default": "BOS"
             },
-            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
+            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/BOS_20232024_light.svg",
             "ties": 0,
             "waiversSequence": 26,
             "wildcardSequence": 0,
@@ -3817,7 +3817,7 @@
             "teamAbbrev": {
                 "default": "ANA"
             },
-            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg",
+            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/ANA_20132014-20232024_light.svg",
             "ties": 0,
             "waiversSequence": 3,
             "wildcardSequence": 8,
