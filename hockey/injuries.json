@@ -1,5 +1,6 @@
 {
     "date": [
+        "2024-07-16",
         "2024-06-13",
         "2024-05-23",
         "2024-05-20",
@@ -33,6 +34,7 @@
         "2022-09-22"
     ],
     "player": [
+        "Torey Krug",
         "Logan Couture",
         "Artturi Lehkonen",
         "Brock Boeser",
@@ -47,8 +49,8 @@
         "Oskar Sundqvist",
         "Noel Acciari",
         "Logan O'Connor",
-        "Ty Emberson",
         "Kent Johnson",
+        "Ty Emberson",
         "Scott Mayfield",
         "Nathan Bastian",
         "Vitek Vanecek",
@@ -66,6 +68,7 @@
         "Gabriel Landeskog"
     ],
     "team": [
+        "St. Louis Blues",
         "San Jose Sharks",
         "Colorado Avalanche",
         "Vancouver Canucks",
@@ -80,8 +83,8 @@
         "St. Louis Blues",
         "Pittsburgh Penguins",
         "Colorado Avalanche",
-        "San Jose Sharks",
         "Columbus Blue Jackets",
+        "San Jose Sharks",
         "New York Islanders",
         "New Jersey Devils",
         "San Jose Sharks",
@@ -99,6 +102,7 @@
         "Colorado Avalanche"
     ],
     "teamid": [
+        19,
         28,
         21,
         23,
@@ -113,8 +117,8 @@
         19,
         5,
         21,
-        28,
         29,
+        28,
         2,
         1,
         28,
@@ -132,6 +136,7 @@
         21
     ],
     "type": [
+        "Ankle",
         "Groin",
         "Shoulder",
         "Blood clotting",
@@ -146,8 +151,8 @@
         "ACL",
         "Lower body",
         "Hip",
-        "Lower body",
         "Shoulder",
+        "Lower body",
         "Lower-Body",
         "Upper body",
         "Lower Body",
@@ -165,6 +170,7 @@
         "Knee"
     ],
     "notes": [
+        "Krug has been diagnosed with pre-arthritic changes in his left ankle and will be re-evaluated in 6-8 weeks. ",
         "Couture (groin) is feeling better and hopes to resume skating in July, Sheng Peng of San Jose Hockey Now reports.",
         "Lehkonen is expected to undergo a shoulder procedure according to general manager Chris MacFarland, Brennan Vogt of The-Rink.com reports.",
         "Boeser is OUT indefinitely and will not play in Monday's (May 20) game versus Edmonton.",
@@ -179,8 +185,8 @@
         "The Blues announced that Sundqvist will undergo surgery on his right knee and be re-evaluated in six months.",
         "The Pittsburgh Penguins placed Acciari on Injured Reserve.",
         "The Colorado Avalanche placed O'Connor on injured reserve Monday (Mar. 25), per CapFriendly.",
-        "The San Jose Sharks announced D Ty Emberson is not expected to play again this season after head coach David Quinn told reporters Monday (Mar. 25), per Max Miller of The Hockey News.",
         "The Columbus Blue Jackets placed F Kent Johnson on injured reserve.",
+        "The San Jose Sharks announced D Ty Emberson is not expected to play again this season after head coach David Quinn told reporters Monday (Mar. 25), per Max Miller of The Hockey News.",
         "The New York Islanders announced D Scott Mayfield had successful season-ending surgery. ",
         "The New Jersey Devils placed F Nathan Bastian on Injured Reserve.",
         "Sharks GM Mike Grier said he expects Vanecek to be healthy to start the 2024-2025 season.",
