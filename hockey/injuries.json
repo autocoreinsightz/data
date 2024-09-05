@@ -1,35 +1,41 @@
 {
     "date": [
+        "2024-09-03",
         "2024-08-29",
         "2024-08-28",
         "2024-07-25",
         "2024-05-13"
     ],
     "player": [
+        "Torey Krug",
         "Jesper Fast",
         "Laurent Brossoit",
         "Rafael Harvey-Pinard",
         "Valeri Nichushkin"
     ],
     "team": [
+        "St. Louis Blues",
         "Carolina Hurricanes",
         "Chicago Blackhawks",
         "Montreal Canadiens",
         "Colorado Avalanche"
     ],
     "teamid": [
+        19,
         12,
         16,
         8,
         21
     ],
     "type": [
+        "Ankle",
         "Neck",
         "Meniscus",
         "Leg",
         "NHLPA"
     ],
     "notes": [
+        "Krug will undergo surgery on his left ankle and will miss the entire 2024-25 season.",
         "Jesper Fast has undergone neck surgery, and is not expected to play in the upcoming season. per Carolina Hurricanes.",
         "Brossoit underwent meniscus repair surgery yesterday, out 5-7 weeks, which puts him back late end of training camp or beginning of regular season, per Frank Seravalli of Daily Faceoff.",
         "Harvey-Pinard underwent successful surgery on Thursday after suffering a broken leg. The recovery period for the 25-year-old winger is estimated to be four months.",
