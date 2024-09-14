@@ -3587,7 +3587,7 @@
                 "seasonId": 20232024,
                 "shotsAgainstPerGame": 33.39024,
                 "shotsForPerGame": 27.67073,
-                "teamFullName": "Montr\u00e9al Canadiens",
+                "teamFullName": "Montr\u001a\u00a9al Canadiens",
                 "teamId": 8,
                 "ties": null,
                 "wins": 30,
@@ -4073,7 +4073,7 @@
             "teamAbbrev": {
                 "default": "SJS"
             },
-            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/SJS_20082009-20232024_light.svg",
             "ties": 0,
             "waiversSequence": 1,
             "wildcardSequence": 10,
