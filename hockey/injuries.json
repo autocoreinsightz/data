@@ -1,5 +1,8 @@
 {
     "date": [
+        "2024-09-12",
+        "2024-09-12",
+        "2024-09-12",
         "2024-09-03",
         "2024-08-29",
         "2024-08-28",
@@ -7,6 +10,9 @@
         "2024-05-13"
     ],
     "player": [
+        "Quentin Miller",
+        "Josh Filmon",
+        "Luke Hughes",
         "Torey Krug",
         "Jesper Fast",
         "Laurent Brossoit",
@@ -14,6 +20,9 @@
         "Valeri Nichushkin"
     ],
     "team": [
+        "Montreal Canadiens",
+        "New Jersey Devils",
+        "New Jersey Devils",
         "St. Louis Blues",
         "Carolina Hurricanes",
         "Chicago Blackhawks",
@@ -21,6 +30,9 @@
         "Colorado Avalanche"
     ],
     "teamid": [
+        8,
+        1,
+        1,
         19,
         12,
         16,
@@ -28,6 +40,9 @@
         21
     ],
     "type": [
+        "Upper-body",
+        "Upper-body",
+        "Shoulder",
         "Ankle",
         "Neck",
         "Meniscus",
@@ -35,6 +50,9 @@
         "NHLPA"
     ],
     "notes": [
+        "Miller will not participate in Thursday\u00e2\u0080\u0099s (Sept. 12) on-ice sessions due to an upper-body injury.",
+        "Filmon will not participate in the team's Prospects Challenge due to an upper-body injury and is considered week-to-week.",
+        "The New Jersey Devils announced that D Luke Hughes suffered a left shoulder injury earlier this month during off-season training. Hughes\u00e2\u0080\u0099 recovery time is approximately six-eight weeks.",
         "Krug will undergo surgery on his left ankle and will miss the entire 2024-25 season.",
         "Jesper Fast has undergone neck surgery, and is not expected to play in the upcoming season. per Carolina Hurricanes.",
         "Brossoit underwent meniscus repair surgery yesterday, out 5-7 weeks, which puts him back late end of training camp or beginning of regular season, per Frank Seravalli of Daily Faceoff.",
