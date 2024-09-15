@@ -1,5 +1,6 @@
 {
     "date": [
+        "2024-09-13",
         "2024-09-12",
         "2024-09-12",
         "2024-09-12",
@@ -10,6 +11,7 @@
         "2024-05-13"
     ],
     "player": [
+        "Artturi Lehkonen",
         "Quentin Miller",
         "Josh Filmon",
         "Luke Hughes",
@@ -20,6 +22,7 @@
         "Valeri Nichushkin"
     ],
     "team": [
+        "Colorado Avalanche",
         "Montreal Canadiens",
         "New Jersey Devils",
         "New Jersey Devils",
@@ -30,6 +33,7 @@
         "Colorado Avalanche"
     ],
     "teamid": [
+        21,
         8,
         1,
         1,
@@ -40,6 +44,7 @@
         21
     ],
     "type": [
+        "Shoulder",
         "Upper-body",
         "Upper-body",
         "Shoulder",
@@ -50,6 +55,7 @@
         "NHLPA"
     ],
     "notes": [
+        "Lehkonen will not be able to participate fully at the start of training camp, John Matisz of The Score reports.",
         "Miller will not participate in Thursday\u00e2\u0080\u0099s (Sept. 12) on-ice sessions due to an upper-body injury.",
         "Filmon will not participate in the team's Prospects Challenge due to an upper-body injury and is considered week-to-week.",
         "The New Jersey Devils announced that D Luke Hughes suffered a left shoulder injury earlier this month during off-season training. Hughes\u00e2\u0080\u0099 recovery time is approximately six-eight weeks.",
