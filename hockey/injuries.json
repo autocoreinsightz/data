@@ -1,5 +1,8 @@
 {
     "date": [
+        "2024-09-17",
+        "2024-09-17",
+        "2024-09-17",
         "2024-09-13",
         "2024-09-12",
         "2024-09-12",
@@ -11,6 +14,9 @@
         "2024-05-13"
     ],
     "player": [
+        "Ilya Sorokin",
+        "Dakota Joshua",
+        "Dakota Joshua",
         "Artturi Lehkonen",
         "Quentin Miller",
         "Josh Filmon",
@@ -22,6 +28,9 @@
         "Valeri Nichushkin"
     ],
     "team": [
+        "New York Islanders",
+        "Vancouver Canucks",
+        "Vancouver Canucks",
         "Colorado Avalanche",
         "Montreal Canadiens",
         "New Jersey Devils",
@@ -33,6 +42,9 @@
         "Colorado Avalanche"
     ],
     "teamid": [
+        2,
+        23,
+        23,
         21,
         8,
         1,
@@ -44,6 +56,9 @@
         21
     ],
     "type": [
+        "Back",
+        "Cancer",
+        "Cancer",
         "Shoulder",
         "Shoulder",
         "Upper-body",
@@ -55,6 +70,9 @@
         "NHLPA"
     ],
     "notes": [
+        "Sorokin had surgery to address a back injury this offseason but is not expected to miss any regular-season action, Stefen Rosner of NHL.com reports.",
+        "The Vancouver Canucks said that F Dakota Joshua will miss the start of camp as he heals up from surgery to remove a cancerous tumor.",
+        "Joshua announced that he underwent surgery for testicular cancer and will not be ready to join the team for training camp.",
         "Lehkonen will not be able to participate fully at the start of training camp, John Matisz of The Score reports.",
         "Miller will be undergoing surgery to repair damage to his right shoulder, per Jonathan Larivee of Hockey Feed.",
         "Filmon will not participate in the team's Prospects Challenge due to an upper-body injury and is considered week-to-week.",
