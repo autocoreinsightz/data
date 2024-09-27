@@ -121,13 +121,13 @@
             },
             "pointPctRank": 1,
             "underdog": 0,
-            "favourite": 82,
+            "favourite": 0,
             "upset": 0,
-            "wasUpset": 27,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.32926829268292684,
+            "wasUpsetPct": 0,
             "upsetPct": 0
         },
         {
@@ -249,15 +249,15 @@
                 "winsInShootout": 4
             },
             "pointPctRank": 2,
-            "underdog": 2,
-            "favourite": 80,
-            "upset": 1,
-            "wasUpset": 29,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.3625,
-            "upsetPct": 0.5
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "x",
@@ -379,15 +379,15 @@
                 "winsInShootout": 2
             },
             "pointPctRank": 3,
-            "underdog": 5,
-            "favourite": 77,
-            "upset": 1,
-            "wasUpset": 26,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.33766233766233766,
-            "upsetPct": 0.2
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "x",
@@ -508,15 +508,15 @@
                 "winsInShootout": 0
             },
             "pointPctRank": 4,
-            "underdog": 8,
-            "favourite": 72,
-            "upset": 4,
-            "wasUpset": 26,
-            "matched": 2,
-            "wonMatched": 2,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
+            "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.3611111111111111,
-            "upsetPct": 0.5
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "y",
@@ -638,15 +638,15 @@
                 "winsInShootout": 3
             },
             "pointPctRank": 4,
-            "underdog": 8,
-            "favourite": 72,
-            "upset": 5,
-            "wasUpset": 25,
-            "matched": 2,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
             "wonMatched": 0,
-            "lostMatched": 2,
-            "wasUpsetPct": 0.3472222222222222,
-            "upsetPct": 0.625
+            "lostMatched": 0,
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "y",
@@ -767,15 +767,15 @@
                 "winsInShootout": 0
             },
             "pointPctRank": 6,
-            "underdog": 12,
-            "favourite": 68,
-            "upset": 7,
-            "wasUpset": 26,
-            "matched": 2,
-            "wonMatched": 1,
-            "lostMatched": 1,
-            "wasUpsetPct": 0.38235294117647056,
-            "upsetPct": 0.5833333333333334
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
+            "wonMatched": 0,
+            "lostMatched": 0,
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "x",
@@ -896,15 +896,15 @@
                 "winsInShootout": 4
             },
             "pointPctRank": 6,
-            "underdog": 14,
-            "favourite": 66,
-            "upset": 8,
-            "wasUpset": 28,
-            "matched": 2,
-            "wonMatched": 1,
-            "lostMatched": 1,
-            "wasUpsetPct": 0.42424242424242425,
-            "upsetPct": 0.5714285714285714
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
+            "wonMatched": 0,
+            "lostMatched": 0,
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "x",
@@ -1025,15 +1025,15 @@
                 "winsInShootout": 2
             },
             "pointPctRank": 8,
-            "underdog": 18,
-            "favourite": 64,
-            "upset": 8,
-            "wasUpset": 22,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.34375,
-            "upsetPct": 0.4444444444444444
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "x",
@@ -1154,15 +1154,15 @@
                 "winsInShootout": 2
             },
             "pointPctRank": 9,
-            "underdog": 21,
-            "favourite": 61,
-            "upset": 7,
-            "wasUpset": 19,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.3114754098360656,
-            "upsetPct": 0.3333333333333333
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "x",
@@ -1283,15 +1283,15 @@
                 "winsInShootout": 5
             },
             "pointPctRank": 10,
-            "underdog": 24,
-            "favourite": 58,
-            "upset": 11,
-            "wasUpset": 23,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.39655172413793105,
-            "upsetPct": 0.4583333333333333
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "x",
@@ -1412,15 +1412,15 @@
                 "winsInShootout": 3
             },
             "pointPctRank": 11,
-            "underdog": 27,
-            "favourite": 52,
-            "upset": 11,
-            "wasUpset": 18,
-            "matched": 3,
-            "wonMatched": 2,
-            "lostMatched": 1,
-            "wasUpsetPct": 0.34615384615384615,
-            "upsetPct": 0.4074074074074074
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
+            "wonMatched": 0,
+            "lostMatched": 0,
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "x",
@@ -1541,15 +1541,15 @@
                 "winsInShootout": 2
             },
             "pointPctRank": 11,
-            "underdog": 27,
-            "favourite": 52,
-            "upset": 11,
-            "wasUpset": 20,
-            "matched": 3,
-            "wonMatched": 1,
-            "lostMatched": 2,
-            "wasUpsetPct": 0.38461538461538464,
-            "upsetPct": 0.4074074074074074
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
+            "wonMatched": 0,
+            "lostMatched": 0,
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "x",
@@ -1670,15 +1670,15 @@
                 "winsInShootout": 3
             },
             "pointPctRank": 13,
-            "underdog": 31,
-            "favourite": 49,
-            "upset": 16,
-            "wasUpset": 22,
-            "matched": 2,
-            "wonMatched": 2,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
+            "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.4489795918367347,
-            "upsetPct": 0.5161290322580645
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "x",
@@ -1799,15 +1799,15 @@
                 "winsInShootout": 4
             },
             "pointPctRank": 13,
-            "underdog": 32,
-            "favourite": 48,
-            "upset": 18,
-            "wasUpset": 21,
-            "matched": 2,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
             "wonMatched": 0,
-            "lostMatched": 2,
-            "wasUpsetPct": 0.4375,
-            "upsetPct": 0.5625
+            "lostMatched": 0,
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "x",
@@ -1928,15 +1928,15 @@
                 "winsInShootout": 1
             },
             "pointPctRank": 15,
-            "underdog": 36,
-            "favourite": 46,
-            "upset": 16,
-            "wasUpset": 23,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.5,
-            "upsetPct": 0.4444444444444444
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "W",
@@ -2056,15 +2056,15 @@
                 "winsInShootout": 5
             },
             "pointPctRank": 16,
-            "underdog": 40,
-            "favourite": 42,
-            "upset": 16,
-            "wasUpset": 15,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.35714285714285715,
-            "upsetPct": 0.4
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "clinchIndicator": "x",
@@ -2185,15 +2185,15 @@
                 "winsInShootout": 4
             },
             "pointPctRank": 17,
-            "underdog": 42,
-            "favourite": 37,
-            "upset": 16,
-            "wasUpset": 15,
-            "matched": 3,
-            "wonMatched": 2,
-            "lostMatched": 1,
-            "wasUpsetPct": 0.40540540540540543,
-            "upsetPct": 0.38095238095238093
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
+            "wonMatched": 0,
+            "lostMatched": 0,
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "E",
@@ -2313,15 +2313,15 @@
                 "winsInShootout": 3
             },
             "pointPctRank": 17,
-            "underdog": 41,
-            "favourite": 38,
-            "upset": 18,
-            "wasUpset": 16,
-            "matched": 3,
-            "wonMatched": 1,
-            "lostMatched": 2,
-            "wasUpsetPct": 0.42105263157894735,
-            "upsetPct": 0.43902439024390244
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
+            "wonMatched": 0,
+            "lostMatched": 0,
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "E",
@@ -2441,15 +2441,15 @@
                 "winsInShootout": 2
             },
             "pointPctRank": 19,
-            "underdog": 48,
-            "favourite": 34,
-            "upset": 20,
-            "wasUpset": 16,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.47058823529411764,
-            "upsetPct": 0.4166666666666667
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "W",
@@ -2569,15 +2569,15 @@
                 "winsInShootout": 3
             },
             "pointPctRank": 20,
-            "underdog": 51,
-            "favourite": 29,
-            "upset": 20,
-            "wasUpset": 10,
-            "matched": 2,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
             "wonMatched": 0,
-            "lostMatched": 2,
-            "wasUpsetPct": 0.3448275862068966,
-            "upsetPct": 0.39215686274509803
+            "lostMatched": 0,
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "E",
@@ -2698,15 +2698,15 @@
                 "winsInShootout": 4
             },
             "pointPctRank": 20,
-            "underdog": 51,
-            "favourite": 29,
-            "upset": 22,
-            "wasUpset": 15,
-            "matched": 2,
-            "wonMatched": 2,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
+            "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.5172413793103449,
-            "upsetPct": 0.43137254901960786
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "E",
@@ -2826,15 +2826,15 @@
                 "winsInShootout": 2
             },
             "pointPctRank": 22,
-            "underdog": 56,
-            "favourite": 26,
-            "upset": 25,
-            "wasUpset": 12,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.46153846153846156,
-            "upsetPct": 0.44642857142857145
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "E",
@@ -2954,15 +2954,15 @@
                 "winsInShootout": 0
             },
             "pointPctRank": 23,
-            "underdog": 60,
-            "favourite": 18,
-            "upset": 25,
-            "wasUpset": 8,
-            "matched": 4,
-            "wonMatched": 3,
-            "lostMatched": 1,
-            "wasUpsetPct": 0.4444444444444444,
-            "upsetPct": 0.4166666666666667
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
+            "wonMatched": 0,
+            "lostMatched": 0,
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "W",
@@ -3082,15 +3082,15 @@
                 "winsInShootout": 0
             },
             "pointPctRank": 23,
-            "underdog": 58,
-            "favourite": 18,
-            "upset": 24,
-            "wasUpset": 7,
-            "matched": 6,
-            "wonMatched": 3,
-            "lostMatched": 3,
-            "wasUpsetPct": 0.3888888888888889,
-            "upsetPct": 0.41379310344827586
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
+            "wonMatched": 0,
+            "lostMatched": 0,
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "W",
@@ -3210,15 +3210,15 @@
                 "winsInShootout": 3
             },
             "pointPctRank": 23,
-            "underdog": 56,
-            "favourite": 20,
-            "upset": 20,
-            "wasUpset": 8,
-            "matched": 6,
-            "wonMatched": 2,
-            "lostMatched": 4,
-            "wasUpsetPct": 0.4,
-            "upsetPct": 0.35714285714285715
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
+            "matched": 0,
+            "wonMatched": 0,
+            "lostMatched": 0,
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "E",
@@ -3339,15 +3339,15 @@
                 "winsInShootout": 5
             },
             "pointPctRank": 26,
-            "underdog": 68,
-            "favourite": 14,
-            "upset": 30,
-            "wasUpset": 7,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.5,
-            "upsetPct": 0.4411764705882353
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "W",
@@ -3467,15 +3467,15 @@
                 "winsInShootout": 2
             },
             "pointPctRank": 27,
-            "underdog": 69,
-            "favourite": 13,
-            "upset": 27,
-            "wasUpset": 4,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.3076923076923077,
-            "upsetPct": 0.391304347826087
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "E",
@@ -3595,15 +3595,15 @@
                 "winsInShootout": 4
             },
             "pointPctRank": 28,
-            "underdog": 73,
-            "favourite": 9,
-            "upset": 22,
-            "wasUpset": 1,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.1111111111111111,
-            "upsetPct": 0.3013698630136986
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "E",
@@ -3723,15 +3723,15 @@
                 "winsInShootout": 3
             },
             "pointPctRank": 29,
-            "underdog": 76,
-            "favourite": 6,
-            "upset": 22,
-            "wasUpset": 1,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.16666666666666666,
-            "upsetPct": 0.2894736842105263
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "W",
@@ -3851,15 +3851,15 @@
                 "winsInShootout": 1
             },
             "pointPctRank": 30,
-            "underdog": 75,
-            "favourite": 7,
-            "upset": 23,
-            "wasUpset": 3,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
+            "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.42857142857142855,
-            "upsetPct": 0.30666666666666664
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "W",
@@ -3979,15 +3979,15 @@
                 "winsInShootout": 1
             },
             "pointPctRank": 31,
-            "underdog": 79,
-            "favourite": 3,
-            "upset": 20,
+            "underdog": 0,
+            "favourite": 0,
+            "upset": 0,
             "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
-            "wasUpsetPct": 0.0,
-            "upsetPct": 0.25316455696202533
+            "wasUpsetPct": 0,
+            "upsetPct": 0
         },
         {
             "conferenceAbbrev": "W",
@@ -4107,15 +4107,15 @@
                 "winsInShootout": 1
             },
             "pointPctRank": 32,
-            "underdog": 82,
+            "underdog": 0,
             "favourite": 0,
-            "upset": 19,
+            "upset": 0,
             "wasUpset": 0,
             "matched": 0,
             "wonMatched": 0,
             "lostMatched": 0,
             "wasUpsetPct": 0,
-            "upsetPct": 0.23170731707317074
+            "upsetPct": 0
         }
     ]
 }
