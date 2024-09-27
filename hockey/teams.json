@@ -2151,7 +2151,7 @@
             "teamAbbrev": {
                 "default": "WSH"
             },
-            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/WSH_light.svg",
+            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
             "ties": 0,
             "waiversSequence": 16,
             "wildcardSequence": 2,
