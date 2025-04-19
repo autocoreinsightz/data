@@ -1,6 +1,6 @@
 {
     "wildCardIndicator": true,
-    "standingsDateTimeUtc": "2025-04-18T08:00:00Z",
+    "standingsDateTimeUtc": "2025-04-19T07:00:00Z",
     "standings": [
         {
             "clinchIndicator": "p",
@@ -3340,7 +3340,7 @@
                 "powerPlayPct": 0.187772,
                 "regulationAndOtWins": 32,
                 "seasonId": 20242025,
-                "shotsAgainstPerGame": 28.89024,
+                "shotsAgainstPerGame": 28.87804,
                 "shotsForPerGame": 27.78048,
                 "teamFullName": "Buffalo Sabres",
                 "teamId": 7,
@@ -3729,7 +3729,7 @@
                 "regulationAndOtWins": 27,
                 "seasonId": 20242025,
                 "shotsAgainstPerGame": 26.95121,
-                "shotsForPerGame": 26.9756,
+                "shotsForPerGame": 26.96341,
                 "teamFullName": "Philadelphia Flyers",
                 "teamId": 4,
                 "ties": null,
