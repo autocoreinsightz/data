@@ -1,6 +1,6 @@
 {
     "wildCardIndicator": true,
-    "standingsDateTimeUtc": "2025-05-04T08:00:00Z",
+    "standingsDateTimeUtc": "2025-05-23T07:00:00Z",
     "standings": [
         {
             "clinchIndicator": "p",
@@ -2413,7 +2413,7 @@
             "teamAbbrev": {
                 "default": "UTA"
             },
-            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg",
+            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_light.svg",
             "ties": 0,
             "waiversSequence": 14,
             "wildcardSequence": 5,
