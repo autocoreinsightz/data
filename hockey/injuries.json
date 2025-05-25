@@ -1,6 +1,6 @@
 {
     "date": [
-        "2025-05-22",
+        "2025-05-23",
         "2025-05-22",
         "2025-05-22",
         "2025-05-20",
@@ -78,9 +78,9 @@
         "2024-08-28"
     ],
     "player": [
+        "Roope Hintz",
         "Sam Reinhart",
         "Sean Walker",
-        "Seth Jarvis",
         "Bo Horvat",
         "Nick Jensen",
         "Josh Morrissey",
@@ -116,8 +116,8 @@
         "Connor Zary",
         "Tanner Jeannot",
         "Jordan Greenway",
-        "Mark Kastelic",
         "Jason Dickinson",
+        "Mark Kastelic",
         "Josh Norris",
         "Ross Johnston",
         "Rasmus Ristolainen",
@@ -156,8 +156,8 @@
         "Laurent Brossoit"
     ],
     "team": [
+        "Dallas Stars",
         "Florida Panthers",
-        "Carolina Hurricanes",
         "Carolina Hurricanes",
         "New York Islanders",
         "Ottawa Senators",
@@ -194,8 +194,8 @@
         "Calgary Flames",
         "Los Angeles Kings",
         "Buffalo Sabres",
-        "Boston Bruins",
         "Chicago Blackhawks",
+        "Boston Bruins",
         "Buffalo Sabres",
         "Anaheim Ducks",
         "Philadelphia Flyers",
@@ -234,8 +234,8 @@
         "Chicago Blackhawks"
     ],
     "teamid": [
+        25,
         13,
-        12,
         12,
         2,
         9,
@@ -272,8 +272,8 @@
         20,
         26,
         7,
-        6,
         16,
+        6,
         7,
         24,
         4,
@@ -312,8 +312,8 @@
         16
     ],
     "type": [
+        "Lower Leg",
         "Lower Body",
-        "Undisclosed",
         "Undisclosed",
         "Lower-body",
         "Lower Body",
@@ -350,8 +350,8 @@
         "Knee",
         "Groin",
         "Lower Body",
-        "Upper Body",
         "Wrist",
+        "Upper Body",
         "Undisclosed",
         "Upper body",
         "Triceps",
@@ -390,9 +390,9 @@
         "Knee"
     ],
     "notes": [
-        "The Panthers reported that Reinhart did not return to Thursday's (May. 22) Game 2 against the Hurricanes due to a lower-body injury.",
-        "The Hurricanes announced that Walker may not be available for Saturday's (May 24) Game 3 versus the Panthers, per Walt Ruff of the Hurricanes' official site.",
-        "The Hurricanes announced that Jarvis is Questionable for Saturday's (May 24) Game 3 versus the Panthers, per Walt Ruff of the Hurricanes' official site.",
+        "Hintz suffered an apparent lower leg or ankle injury in Friday's (May 23) Game 2 versus the Oilers, per Sam Nestler of DLLS Stars.",
+        "The Panthers reported that Reinhart will see doctors on Friday (May 23) and his status for Saturday's (May 24) Game 3 versus the Hurricanes will be updated, according to Florida head coach Paul Maurice.",
+        "The Hurricanes announced that Walker is Questionable for Saturday's (May 24) Game 3 versus the Panthers, per Ryan Henkel of The Hockey News.",
         "The Islanders reported on Tuesday (May 20) that Horvat sustained a lower body injury at the World Championships playing for Hockey Canada. His timeline for recovery will be determined after he visits with team doctors.",
         "Jensen had a procedure in New York on Monday to address a lower-body injury, per Bruce Garrioch of Postmedia.",
         "Morrissey stated on Tuesday (May 20) that he will not require surgery for the injury he sustained in Saturday's (May 17) Game 6 against the Stars, per Mitchell Clinton of the Jets' official site.",
@@ -428,8 +428,8 @@
         "Zary is expected to miss Thursday's (Apr. 17) against the Kings with no clear timetable to return, per the NHL media site.",
         "The Kings reported on Monday (May 5) that Jeannot missed the final 12 games of the regular season and all six of the team's playoff outings due to a groin injury, per Zach Dooley of the Kings' official site.",
         "The Sabres said on Saturday (Apr. 12) that Greenway is not expected to return before the end of the regular season, per Lance Lysowski of The Buffalo News.",
-        "The Bruins said on Thursday (Apr. 10) that Kastelic won\u00e2\u0080\u0099t play before the end of the regular season.",
         "Dickinson will miss the remainder of the 2024-25 campaign because of a wrist injury, according to Ben Pope of the Chicago Sun-Times.",
+        "The Bruins said on Thursday (Apr. 10) that Kastelic won\u00e2\u0080\u0099t play before the end of the regular season.",
         "Norris' injury is a soft-tissue injury that the Sabres knew about before acquiring him from the Senators, according to Brian Koziol of WGR.",
         "The Ducks announced on Saturday (Mar. 29) that Johnston isn't expected to play again this season, according to Derek Lee of The Hockey News.",
         "The Flyers said on Thursday (Apr. 24) that Ristolainen underwent successful surgery on his right triceps tendon rupture and is expected to miss the next six months and training camp.",
