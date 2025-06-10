@@ -1,5 +1,6 @@
 {
     "date": [
+        "2025-06-08",
         "2025-06-06",
         "2025-05-31",
         "2025-05-28",
@@ -59,6 +60,7 @@
         "2024-08-28"
     ],
     "player": [
+        "Ryan Nugent-Hopkins",
         "Logan O'Connor",
         "A.J. Greer",
         "Adam Lowry",
@@ -68,11 +70,11 @@
         "Pavel Zacha",
         "Dylan Guenther",
         "John Beecher",
-        "Martin Fehervary",
         "Chris Kreider",
-        "Klim Kostin",
-        "Braden Schneider",
+        "Martin Fehervary",
         "Oliver Bjorkstrand",
+        "Braden Schneider",
+        "Klim Kostin",
         "Matt Nieto",
         "Noel Acciari",
         "Mario Ferraro",
@@ -118,6 +120,7 @@
         "Laurent Brossoit"
     ],
     "team": [
+        "Edmonton Oilers",
         "Colorado Avalanche",
         "Florida Panthers",
         "Winnipeg Jets",
@@ -127,11 +130,11 @@
         "Boston Bruins",
         "Utah Hockey Club",
         "Boston Bruins",
+        "New York Rangers",
         "Washington Capitals",
+        "Tampa Bay Lightning",
         "New York Rangers",
         "San Jose Sharks",
-        "New York Rangers",
-        "Tampa Bay Lightning",
         "Pittsburgh Penguins",
         "Pittsburgh Penguins",
         "San Jose Sharks",
@@ -177,6 +180,7 @@
         "Chicago Blackhawks"
     ],
     "teamid": [
+        22,
         21,
         13,
         52,
@@ -186,11 +190,11 @@
         6,
         59,
         6,
+        3,
         15,
+        14,
         3,
         28,
-        3,
-        14,
         5,
         5,
         28,
@@ -236,6 +240,7 @@
         16
     ],
     "type": [
+        "Undisclosed",
         "Hip",
         "Lower Body",
         "Hip",
@@ -245,8 +250,8 @@
         "Undisclosed",
         "Undisclosed",
         "Undisclosed",
-        "Meniscus",
         "Hand",
+        "Meniscus",
         "Lower Body",
         "Upper Body",
         "Lower Body",
@@ -295,6 +300,7 @@
         "Knee"
     ],
     "notes": [
+        "Nugent-Hopkins will be a game-time decision for Monday's (Jun. 9) Game 3 of the Stanley Cup Finals against the Panthers, as per Kristen Shilton of ESPN reports.",
         "The Avalanche announced on Friday (Jun. 6) that O'Connor underwent hip surgery and is expected to miss the next 5 to 6 months.",
         "Greer did not play in Friday's (Jun. 6) Game 2 of the Stanley Cup Finals versus the Oilers.",
         "The Jets reported that Lowry underwent successful hip surgery on Tuesday (May 27) and is expected to miss the next 5 to 6 months.",
@@ -304,11 +310,11 @@
         "The Bruins said on Wednesday (Apr. 23) that Zacha had a minor surgery to address an undisclosed injury, according to general manager Don Sweeney, per Scott McLaughlin of WEEI.",
         "Guenther will miss the upcoming 2025 IIHF World Championship, per Utah Hockey Club Insider Craig Morgan.",
         "The Bruins said on Wednesday (Apr. 23) that Beecher might undergo surgery over the offseason, per Scott McLaughlin of WEEI.",
-        "The Capitals said on Tuesday (Apr. 22) that Fehervary will miss the remainder of the playoffs after undergoing a successful procedure on his meniscus.",
         "Kreider ended the season dealing with a hand injury that may require offseason surgery, Peter Baugh of The Athletic.",
-        "Kostin did not play in Monday's (Apr. 14) game against the Canucks. It is unlikely he will return this season.",
-        "Schneider missed the final two games of the regular season after undergoing surgery to repair a torn labrum, according to Peter Baugh of The Athletic.",
+        "The Capitals said on Tuesday (Apr. 22) that Fehervary will miss the remainder of the playoffs after undergoing a successful procedure on his meniscus.",
         "The Lightning reported on Tuesday (May 6) that Krug is not expected to resume his playing career according to GM Doug Armstrong, as per Lou Korac of NHL.com.",
+        "Schneider missed the final two games of the regular season after undergoing surgery to repair a torn labrum, according to Peter Baugh of The Athletic.",
+        "Kostin did not play in Monday's (Apr. 14) game against the Canucks. It is unlikely he will return this season.",
         "The Penguins said on Thursday (Apr. 10) that Nieto will miss the remainder of the season.",
         "The Penguins said on Thursday (Apr. 10) that Acciari will miss the remainder of the season.",
         "The Sharks said on Friday (Apr. 11) that Ferraro's season-ending injury is a broken ankle that won't require surgery, according to Sheng Peng of San Jose Hockey Now.",
