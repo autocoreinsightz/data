@@ -1,5 +1,6 @@
 {
     "date": [
+        "2025-06-11",
         "2025-06-06",
         "2025-05-28",
         "2025-05-27",
@@ -57,6 +58,7 @@
         "2024-08-28"
     ],
     "player": [
+        "Ryan Nugent-Hopkins",
         "Logan O'Connor",
         "Adam Lowry",
         "Zach Hyman",
@@ -114,6 +116,7 @@
         "Laurent Brossoit"
     ],
     "team": [
+        "Edmonton Oilers",
         "Colorado Avalanche",
         "Winnipeg Jets",
         "Edmonton Oilers",
@@ -171,6 +174,7 @@
         "Chicago Blackhawks"
     ],
     "teamid": [
+        22,
         21,
         52,
         22,
@@ -228,6 +232,7 @@
         16
     ],
     "type": [
+        "Undisclosed",
         "Hip",
         "Hip",
         "Upper Body",
@@ -285,6 +290,7 @@
         "Knee"
     ],
     "notes": [
+        "Nugent-Hopkins is expected to be a game-time decision for Thursday's (Jun. 12) Game 4 of the Stanley Cup Finals against the Panthers, according to Elliotte Friedman of Sportsnet.",
         "The Avalanche announced on Friday (Jun. 6) that O'Connor underwent hip surgery and is expected to miss the next 5 to 6 months.",
         "The Jets reported that Lowry underwent successful hip surgery on Tuesday (May 27) and is expected to miss the next 5 to 6 months.",
         "Hyman said on Wednesday (Jun. 4) that he isn't sure whether he'll be ready for training camp, as per Jason Gregor of Sports 1440 Edmonton.",
