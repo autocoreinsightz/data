@@ -1,6 +1,6 @@
 {
     "wildCardIndicator": true,
-    "standingsDateTimeUtc": "2025-06-17T08:01:02Z",
+    "standingsDateTimeUtc": "2025-06-19T07:04:00Z",
     "standings": [
         {
             "clinchIndicator": "p",
@@ -3962,7 +3962,7 @@
             "teamAbbrev": {
                 "default": "CHI"
             },
-            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
+            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/CHI_19981999-20242025_light.svg",
             "ties": 0,
             "waiversSequence": 2,
             "wildcardSequence": 9,
