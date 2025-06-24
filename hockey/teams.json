@@ -1,6 +1,6 @@
 {
     "wildCardIndicator": true,
-    "standingsDateTimeUtc": "2025-06-23T08:00:00Z",
+    "standingsDateTimeUtc": "2025-06-24T07:00:00Z",
     "standings": [
         {
             "clinchIndicator": "p",
@@ -3574,7 +3574,7 @@
             "teamAbbrev": {
                 "default": "BOS"
             },
-            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
+            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/BOS_20242025-20242025_light.svg",
             "ties": 0,
             "waiversSequence": 5,
             "wildcardSequence": 9,
