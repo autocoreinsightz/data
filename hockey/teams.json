@@ -1,6 +1,6 @@
 {
     "wildCardIndicator": true,
-    "standingsDateTimeUtc": "2025-06-24T08:00:00Z",
+    "standingsDateTimeUtc": "2025-06-25T07:00:00Z",
     "standings": [
         {
             "clinchIndicator": "p",
@@ -1767,7 +1767,7 @@
             "teamAbbrev": {
                 "default": "STL"
             },
-            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg",
+            "teamLogo": "https://assets.nhle.com/logos/nhl/svg/STL_20082009-20242025_light.svg",
             "ties": 0,
             "waiversSequence": 19,
             "wildcardSequence": 2,
