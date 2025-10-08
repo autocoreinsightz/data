@@ -1,6 +1,6 @@
 {
     "wildCardIndicator": true,
-    "standingsDateTimeUtc": "2025-10-08T11:25:45Z",
+    "standingsDateTimeUtc": "2025-10-08T11:52:46Z",
     "standings": [
         {
             "conferenceAbbrev": "W",
@@ -3036,7 +3036,7 @@
             "wins": 0,
             "goalsForPctg": 0,
             "goalDifferentialPctg": 0,
-            "teamid": 59,
+            "teamid": 68,
             "stats": {
                 "faceoffWinPct": 0,
                 "gamesPlayed": 0,
@@ -3057,7 +3057,7 @@
                 "shotsAgainstPerGame": 0.0,
                 "shotsForPerGame": 0.0,
                 "teamFullName": "Utah Mammoth",
-                "teamId": 59,
+                "teamId": 68,
                 "ties": null,
                 "wins": 0,
                 "winsInRegulation": 0,
